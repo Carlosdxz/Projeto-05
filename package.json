@@ -1,0 +1,11 @@
+{
+  "name": "projeto05-desenvolvimento-web-iii",
+  "version": "1.0.0",
+  "description": "Calculo de media escolar com Node.js puro",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
